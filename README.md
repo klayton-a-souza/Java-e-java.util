@@ -15,10 +15,11 @@
 
 ## Lista de aulas
 
-1. Conhencendo Arrays 
-2. Guardando qualquer referência
-3. ArrayList e Generics
-4. Vector e interface Collection
-5. As classes Wrappers
-6. Ordenação de listas
-7. Classes anônimas e Lambdas
+* Conhencendo Arrays 
+* Guardando qualquer referência
+* ArrayList e Generics
+* Equals e mais listas
+* Vector e interface Collection
+* As classes Wrappers
+* Ordenação de listas
+* Classes anônimas e Lambdas
